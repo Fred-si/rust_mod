@@ -1,5 +1,7 @@
 mod toto;
 
+use toto::tata::titi;
+
 fn main() {
-    toto::tata::titi();
+    titi();
 }

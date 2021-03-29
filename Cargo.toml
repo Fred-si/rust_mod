@@ -1,5 +1,5 @@
 [package]
-name = "toto"
+name = "rust_module_cheatsheet"
 version = "0.1.0"
 authors = ["Fred-si <fred-si@zaclys.net>"]
 edition = "2018"
