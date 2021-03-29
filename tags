@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/tmp/toto/toto/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+0	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+0	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	s	array:outputs.4476964694761187371
+0	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	o	array:local
+0	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	o	array:local
+1	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+1	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	s	array:outputs.4476964694761187371
+1164083562126845933	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	a	object:outputs
+4476964694761187371	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	a	object:outputs
+CheckDepInfo	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	o	object:local.0
+config	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+config	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+dep_info	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	a
+deps	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	a
+features	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	s
+features	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	s
+local	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	a
+local	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	a
+main	src/main.rs	/^fn main() {$/;"	f
+metadata	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+metadata	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	o
+path	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+path	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+profile	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+profile	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+rustc	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+rustc	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	n
+rustflags	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	a
+rustflags	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	a
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":12347883070264063327,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\/;"	o
+target	target/debug/.fingerprint/toto-b7ff0838a057e16c/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":161355969568/;"	n
+target	target/debug/.fingerprint/toto-cb33462305fa6671/bin-toto.json	/^{"rustc":6339714466149818003,"features":"[]","target":6682980668516914377,"profile":180740125662/;"	n
+tata	src/toto.rs	/^pub mod tata;$/;"	n
+titi	src/toto/tata.rs	/^pub fn titi() {$/;"	f
+toto	src/main.rs	/^mod toto;$/;"	n
